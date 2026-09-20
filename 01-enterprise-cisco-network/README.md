@@ -29,10 +29,10 @@ The main network segments include:
 
 | VLAN     | Department / Function |
 | -------- | --------------------- |
-| VLAN 10  | ADMIN / COICT         |
+| VLAN 10  | COICT         |
 | VLAN 20  | COET                  |
 | VLAN 30  | SALES                 |
-| VLAN 40  | IT                    |
+| VLAN 40  | IT /ADMIN                   |
 | VLAN 50  | SERVERS               |
 | VLAN 89  | MANAGEMENT            |
 | VLAN 100 | GUESTS                |
